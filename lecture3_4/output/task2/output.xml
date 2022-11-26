@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<violationList>
+    <violation>
+        <type>DRIVING_A_CAR_AT_NIGHT_WITHOUT_HEADLIGHTS</type>
+        <fineAmount>1280.0</fineAmount>
+    </violation>
+    <violation>
+        <type>SPEEDING</type>
+        <fineAmount>970.0</fineAmount>
+    </violation>
+    <violation>
+        <type>TURNING_INTO_THE_WRONG_LANE</type>
+        <fineAmount>750.0</fineAmount>
+    </violation>
+    <violation>
+        <type>DRIVING_WITHOUT_SEAT-BELT</type>
+        <fineAmount>300.0</fineAmount>
+    </violation>
+    <violation>
+        <type>PARKING IN A FIRE LANE</type>
+        <fineAmount>300.0</fineAmount>
+    </violation>
+</violationList>

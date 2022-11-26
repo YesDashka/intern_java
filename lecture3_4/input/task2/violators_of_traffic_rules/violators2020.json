@@ -1,0 +1,30 @@
+[
+  {
+    "date_time": "2020-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 340.00
+  },
+  {
+    "date_time": "2020-06-04 14:30:15",
+    "first_name": "Sasha",
+    "last_name": "Yurov",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 300.00
+  },
+  {
+    "date_time": "2020-08-15 22:05:24",
+    "first_name": "Vlas",
+    "last_name": "Belyakov",
+    "type": "DRIVING_A_CAR_AT_NIGHT_WITHOUT_HEADLIGHTS",
+    "fine_amount": 500.00
+  },
+  {
+    "date_time": "2020-03-04 09:05:14",
+    "first_name": "Liliya",
+    "last_name": "Kharevska",
+    "type": "DRIVING_WITHOUT_SEAT-BELT",
+    "fine_amount": 150.00
+  }
+]

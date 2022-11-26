@@ -1,0 +1,31 @@
+[
+  {
+    "date_time": "2019-06-10 12:32:14",
+    "first_name": "Yura",
+    "last_name": "Todorov",
+    "type": "SPEEDING",
+    "fine_amount": 330.00
+  },
+  {
+    "date_time": "2019-04-10 16:30:15",
+    "first_name": "Kyrylo",
+    "last_name": "Samburov",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 250.00
+  },
+
+  {
+    "date_time": "2019-04-13 13:15:13",
+    "first_name": "Dasha",
+    "last_name": "Yesypchuk",
+    "type": "PARKING IN A FIRE LANE",
+    "fine_amount": 300.00
+  },
+  {
+    "date_time": "2019-04-03 10:05:14",
+    "first_name": "Zhenya",
+    "last_name": "Dubov",
+    "type": "DRIVING_WITHOUT_SEAT-BELT",
+    "fine_amount": 150.00
+  }
+]

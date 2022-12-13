@@ -1,0 +1,1710 @@
+[
+  {
+    "date_time": "2018-01-08 12:37:14",
+    "first_name": "Delaney",
+    "last_name": "Miranda",
+    "type": "SPEEDING",
+    "fine_amount": 1712
+  },
+  {
+    "date_time": "2018-01-10 03:46:10",
+    "first_name": "Koch",
+    "last_name": "Roberts",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 350
+  },
+  {
+    "date_time": "2018-01-06 02:49:44",
+    "first_name": "Jennings",
+    "last_name": "Spencer",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 1143
+  },
+  {
+    "date_time": "2018-01-06 05:41:57",
+    "first_name": "Woods",
+    "last_name": "Conway",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 1968
+  },
+  {
+    "date_time": "2018-01-06 08:46:16",
+    "first_name": "Katy",
+    "last_name": "Cortez",
+    "type": "SPEEDING",
+    "fine_amount": 75
+  },
+  {
+    "date_time": "2018-01-05 11:04:50",
+    "first_name": "Concepcion",
+    "last_name": "Christian",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 774
+  },
+  {
+    "date_time": "2018-01-03 07:11:18",
+    "first_name": "Tia",
+    "last_name": "Simon",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 339
+  },
+  {
+    "date_time": "2018-01-03 12:20:30",
+    "first_name": "Brenda",
+    "last_name": "Reyes",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 460
+  },
+  {
+    "date_time": "2018-01-06 05:25:41",
+    "first_name": "Buck",
+    "last_name": "Foster",
+    "type": "SPEEDING",
+    "fine_amount": 1695
+  },
+  {
+    "date_time": "2018-01-07 10:03:32",
+    "first_name": "Foley",
+    "last_name": "Sanchez",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 340
+  },
+  {
+    "date_time": "2018-01-08 10:02:33",
+    "first_name": "Ross",
+    "last_name": "Contreras",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 1156
+  },
+  {
+    "date_time": "2018-01-04 10:30:55",
+    "first_name": "Estrada",
+    "last_name": "Conley",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 406
+  },
+  {
+    "date_time": "2018-01-10 08:51:37",
+    "first_name": "Stephenson",
+    "last_name": "Mendez",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 499
+  },
+  {
+    "date_time": "2018-01-08 10:44:55",
+    "first_name": "Dianne",
+    "last_name": "Farley",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 914
+  },
+  {
+    "date_time": "2018-01-10 12:35:01",
+    "first_name": "Obrien",
+    "last_name": "Hobbs",
+    "type": "SPEEDING",
+    "fine_amount": 368
+  },
+  {
+    "date_time": "2018-01-10 11:57:13",
+    "first_name": "Celia",
+    "last_name": "Bentley",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 1871
+  },
+  {
+    "date_time": "2018-01-09 09:20:18",
+    "first_name": "Maude",
+    "last_name": "Pittman",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 785
+  },
+  {
+    "date_time": "2018-01-07 04:29:37",
+    "first_name": "Hernandez",
+    "last_name": "Fernandez",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 460
+  },
+  {
+    "date_time": "2018-01-07 06:50:38",
+    "first_name": "Tina",
+    "last_name": "French",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 167
+  },
+  {
+    "date_time": "2018-01-05 04:54:13",
+    "first_name": "Annette",
+    "last_name": "Walter",
+    "type": "SPEEDING",
+    "fine_amount": 1466
+  },
+  {
+    "date_time": "2018-01-02 06:19:37",
+    "first_name": "Drake",
+    "last_name": "Brown",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 548
+  },
+  {
+    "date_time": "2018-01-05 12:01:13",
+    "first_name": "Brandie",
+    "last_name": "Rice",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 515
+  },
+  {
+    "date_time": "2018-01-05 04:02:35",
+    "first_name": "Shaffer",
+    "last_name": "Mckinney",
+    "type": "SPEEDING",
+    "fine_amount": 1292
+  },
+  {
+    "date_time": "2018-01-03 11:20:05",
+    "first_name": "Cheri",
+    "last_name": "Beasley",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 1826
+  },
+  {
+    "date_time": "2018-01-08 09:45:52",
+    "first_name": "Lee",
+    "last_name": "Lowery",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 1956
+  },
+  {
+    "date_time": "2018-01-08 02:06:39",
+    "first_name": "Allen",
+    "last_name": "Cook",
+    "type": "SPEEDING",
+    "fine_amount": 636
+  },
+  {
+    "date_time": "2018-01-11 06:39:02",
+    "first_name": "Jimenez",
+    "last_name": "Payne",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 84
+  },
+  {
+    "date_time": "2018-01-11 01:43:40",
+    "first_name": "Perez",
+    "last_name": "Nicholson",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 845
+  },
+  {
+    "date_time": "2018-01-03 09:11:34",
+    "first_name": "Landry",
+    "last_name": "Robertson",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 1357
+  },
+  {
+    "date_time": "2018-01-10 03:57:59",
+    "first_name": "Trina",
+    "last_name": "Larson",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 155
+  },
+  {
+    "date_time": "2018-01-11 10:32:37",
+    "first_name": "Kathryn",
+    "last_name": "Owen",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 1268
+  },
+  {
+    "date_time": "2018-01-06 11:59:25",
+    "first_name": "Connie",
+    "last_name": "Haley",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 331
+  },
+  {
+    "date_time": "2018-01-11 01:08:54",
+    "first_name": "Darlene",
+    "last_name": "Weeks",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 292
+  },
+  {
+    "date_time": "2018-01-02 06:23:42",
+    "first_name": "Frazier",
+    "last_name": "Hall",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 1671
+  },
+  {
+    "date_time": "2018-01-09 06:36:52",
+    "first_name": "Hays",
+    "last_name": "Sosa",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 1817
+  },
+  {
+    "date_time": "2018-01-11 01:15:15",
+    "first_name": "Cardenas",
+    "last_name": "Salas",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 1200
+  },
+  {
+    "date_time": "2018-01-08 03:47:39",
+    "first_name": "Maribel",
+    "last_name": "Fischer",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 1810
+  },
+  {
+    "date_time": "2018-01-01 12:07:44",
+    "first_name": "Letitia",
+    "last_name": "Chambers",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 1891
+  },
+  {
+    "date_time": "2018-01-09 08:48:57",
+    "first_name": "Duffy",
+    "last_name": "Booth",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 128
+  },
+  {
+    "date_time": "2018-01-11 03:35:28",
+    "first_name": "Angel",
+    "last_name": "Bowers",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 1708
+  },
+  {
+    "date_time": "2018-01-10 01:49:32",
+    "first_name": "Merritt",
+    "last_name": "Levine",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 1574
+  },
+  {
+    "date_time": "2018-01-04 01:36:21",
+    "first_name": "Karina",
+    "last_name": "Shepherd",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 721
+  },
+  {
+    "date_time": "2018-01-02 06:53:19",
+    "first_name": "Chan",
+    "last_name": "Webster",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 1762
+  },
+  {
+    "date_time": "2018-01-02 05:15:32",
+    "first_name": "Willis",
+    "last_name": "Hendricks",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 1547
+  },
+  {
+    "date_time": "2018-01-08 03:37:07",
+    "first_name": "Lacy",
+    "last_name": "Hopper",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 1313
+  },
+  {
+    "date_time": "2018-01-03 02:50:57",
+    "first_name": "Linda",
+    "last_name": "Solis",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 1927
+  },
+  {
+    "date_time": "2018-01-04 11:08:26",
+    "first_name": "Shelly",
+    "last_name": "Craig",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 817
+  },
+  {
+    "date_time": "2018-01-02 04:39:22",
+    "first_name": "Black",
+    "last_name": "Mooney",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 346
+  },
+  {
+    "date_time": "2018-01-06 10:17:41",
+    "first_name": "Dorthy",
+    "last_name": "Richard",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 1465
+  },
+  {
+    "date_time": "2018-01-10 04:36:42",
+    "first_name": "Leticia",
+    "last_name": "Kerr",
+    "type": "SPEEDING",
+    "fine_amount": 1300
+  },
+  {
+    "date_time": "2018-01-07 10:34:27",
+    "first_name": "Nunez",
+    "last_name": "Taylor",
+    "type": "SPEEDING",
+    "fine_amount": 391
+  },
+  {
+    "date_time": "2018-01-10 11:30:07",
+    "first_name": "Tracy",
+    "last_name": "Mcguire",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 996
+  },
+  {
+    "date_time": "2018-01-02 10:20:30",
+    "first_name": "Mollie",
+    "last_name": "Kim",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 206
+  },
+  {
+    "date_time": "2018-01-07 02:30:03",
+    "first_name": "Shelton",
+    "last_name": "Adkins",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 463
+  },
+  {
+    "date_time": "2018-01-05 05:08:41",
+    "first_name": "Gabrielle",
+    "last_name": "Chapman",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 287
+  },
+  {
+    "date_time": "2018-01-04 06:59:08",
+    "first_name": "Gilliam",
+    "last_name": "Weber",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 1160
+  },
+  {
+    "date_time": "2018-01-06 09:15:41",
+    "first_name": "Mcdowell",
+    "last_name": "Wallace",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 1139
+  },
+  {
+    "date_time": "2018-01-05 05:38:56",
+    "first_name": "Natalia",
+    "last_name": "England",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 998
+  },
+  {
+    "date_time": "2018-01-01 04:17:10",
+    "first_name": "Alta",
+    "last_name": "Walters",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 788
+  },
+  {
+    "date_time": "2018-01-05 05:32:10",
+    "first_name": "Montgomery",
+    "last_name": "Valenzuela",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 643
+  },
+  {
+    "date_time": "2018-01-03 02:29:49",
+    "first_name": "Harrell",
+    "last_name": "Lee",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 1386
+  },
+  {
+    "date_time": "2018-01-08 10:07:41",
+    "first_name": "Lydia",
+    "last_name": "Heath",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 551
+  },
+  {
+    "date_time": "2018-01-11 12:36:47",
+    "first_name": "Bethany",
+    "last_name": "Castaneda",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 1587
+  },
+  {
+    "date_time": "2018-01-03 11:55:05",
+    "first_name": "Brianna",
+    "last_name": "Young",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 540
+  },
+  {
+    "date_time": "2018-01-10 08:31:53",
+    "first_name": "Norman",
+    "last_name": "Bean",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 1491
+  },
+  {
+    "date_time": "2018-01-06 03:20:27",
+    "first_name": "Walters",
+    "last_name": "Pope",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 1743
+  },
+  {
+    "date_time": "2018-01-08 11:29:36",
+    "first_name": "Jane",
+    "last_name": "Price",
+    "type": "SPEEDING",
+    "fine_amount": 1403
+  },
+  {
+    "date_time": "2018-01-02 07:10:45",
+    "first_name": "Walton",
+    "last_name": "Brooks",
+    "type": "SPEEDING",
+    "fine_amount": 775
+  },
+  {
+    "date_time": "2018-01-09 08:40:58",
+    "first_name": "Colon",
+    "last_name": "Waller",
+    "type": "SPEEDING",
+    "fine_amount": 1314
+  },
+  {
+    "date_time": "2018-01-02 09:18:17",
+    "first_name": "Matthews",
+    "last_name": "Cain",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 736
+  },
+  {
+    "date_time": "2018-01-04 08:38:52",
+    "first_name": "Conner",
+    "last_name": "Beard",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 171
+  },
+  {
+    "date_time": "2018-01-04 04:31:44",
+    "first_name": "Burris",
+    "last_name": "Gallagher",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 1736
+  },
+  {
+    "date_time": "2018-01-04 04:35:43",
+    "first_name": "Gould",
+    "last_name": "Hines",
+    "type": "SPEEDING",
+    "fine_amount": 1227
+  },
+  {
+    "date_time": "2018-01-07 11:55:10",
+    "first_name": "Hansen",
+    "last_name": "Pace",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 1544
+  },
+  {
+    "date_time": "2018-01-01 08:39:15",
+    "first_name": "Frankie",
+    "last_name": "Burris",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 1765
+  },
+  {
+    "date_time": "2018-01-01 05:13:55",
+    "first_name": "Lamb",
+    "last_name": "Moses",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 1390
+  },
+  {
+    "date_time": "2018-01-05 06:42:01",
+    "first_name": "Aline",
+    "last_name": "Wolfe",
+    "type": "SPEEDING",
+    "fine_amount": 157
+  },
+  {
+    "date_time": "2018-01-07 06:24:21",
+    "first_name": "Doyle",
+    "last_name": "Cooper",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 717
+  },
+  {
+    "date_time": "2018-01-06 06:32:24",
+    "first_name": "Miles",
+    "last_name": "Cantu",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 1542
+  },
+  {
+    "date_time": "2018-01-03 05:06:21",
+    "first_name": "Rosetta",
+    "last_name": "Mcknight",
+    "type": "SPEEDING",
+    "fine_amount": 1407
+  },
+  {
+    "date_time": "2018-01-01 12:04:39",
+    "first_name": "Etta",
+    "last_name": "Wilkinson",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 992
+  },
+  {
+    "date_time": "2018-01-07 06:38:27",
+    "first_name": "Luann",
+    "last_name": "Collier",
+    "type": "SPEEDING",
+    "fine_amount": 342
+  },
+  {
+    "date_time": "2018-01-01 05:00:57",
+    "first_name": "Lourdes",
+    "last_name": "Smith",
+    "type": "SPEEDING",
+    "fine_amount": 12
+  },
+  {
+    "date_time": "2018-01-03 04:46:49",
+    "first_name": "Rachel",
+    "last_name": "Peterson",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 1589
+  },
+  {
+    "date_time": "2018-01-06 09:01:07",
+    "first_name": "Aisha",
+    "last_name": "Crane",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 340
+  },
+  {
+    "date_time": "2018-01-06 06:28:22",
+    "first_name": "Dena",
+    "last_name": "Watson",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 1352
+  },
+  {
+    "date_time": "2018-01-11 06:54:56",
+    "first_name": "Newton",
+    "last_name": "Leblanc",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 1692
+  },
+  {
+    "date_time": "2018-01-04 11:14:50",
+    "first_name": "Riley",
+    "last_name": "Huber",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 63
+  },
+  {
+    "date_time": "2018-01-02 12:22:33",
+    "first_name": "Moody",
+    "last_name": "Duffy",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 426
+  },
+  {
+    "date_time": "2018-01-09 10:18:34",
+    "first_name": "Snider",
+    "last_name": "Rivera",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 141
+  },
+  {
+    "date_time": "2018-01-03 02:36:35",
+    "first_name": "Angelique",
+    "last_name": "Dixon",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 469
+  },
+  {
+    "date_time": "2018-01-04 12:10:32",
+    "first_name": "Terry",
+    "last_name": "Kelley",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 854
+  },
+  {
+    "date_time": "2018-01-11 05:42:06",
+    "first_name": "Mooney",
+    "last_name": "Cunningham",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 1621
+  },
+  {
+    "date_time": "2018-01-08 01:13:53",
+    "first_name": "Buckley",
+    "last_name": "Black",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 473
+  },
+  {
+    "date_time": "2018-01-04 11:51:24",
+    "first_name": "Hazel",
+    "last_name": "Maldonado",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 1462
+  },
+  {
+    "date_time": "2018-01-09 08:38:00",
+    "first_name": "Rogers",
+    "last_name": "Hays",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 1976
+  },
+  {
+    "date_time": "2018-01-06 12:53:48",
+    "first_name": "Hart",
+    "last_name": "Mccray",
+    "type": "SPEEDING",
+    "fine_amount": 1422
+  },
+  {
+    "date_time": "2018-01-10 12:18:05",
+    "first_name": "Finley",
+    "last_name": "Hurst",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 1263
+  },
+  {
+    "date_time": "2018-01-11 06:37:55",
+    "first_name": "Roberson",
+    "last_name": "Odonnell",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 1974
+  },
+  {
+    "date_time": "2018-01-08 10:23:49",
+    "first_name": "Newman",
+    "last_name": "Page",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 1974
+  },
+  {
+    "date_time": "2018-01-09 01:11:03",
+    "first_name": "Jacobs",
+    "last_name": "Chandler",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 1161
+  },
+  {
+    "date_time": "2018-01-07 09:27:59",
+    "first_name": "Christian",
+    "last_name": "Mullen",
+    "type": "SPEEDING",
+    "fine_amount": 64
+  },
+  {
+    "date_time": "2018-01-09 06:15:50",
+    "first_name": "Gena",
+    "last_name": "Case",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 1755
+  },
+  {
+    "date_time": "2018-01-10 12:02:51",
+    "first_name": "Morin",
+    "last_name": "York",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 1361
+  },
+  {
+    "date_time": "2018-01-02 08:37:59",
+    "first_name": "Stacey",
+    "last_name": "Slater",
+    "type": "SPEEDING",
+    "fine_amount": 71
+  },
+  {
+    "date_time": "2018-01-04 04:59:03",
+    "first_name": "Mona",
+    "last_name": "Duncan",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 387
+  },
+  {
+    "date_time": "2018-01-06 09:58:12",
+    "first_name": "Santos",
+    "last_name": "Hewitt",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 1090
+  },
+  {
+    "date_time": "2018-01-04 02:04:38",
+    "first_name": "Armstrong",
+    "last_name": "Hyde",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 1602
+  },
+  {
+    "date_time": "2018-01-04 09:50:40",
+    "first_name": "Mathis",
+    "last_name": "Lewis",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 36
+  },
+  {
+    "date_time": "2018-01-09 12:27:33",
+    "first_name": "Wells",
+    "last_name": "Espinoza",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 243
+  },
+  {
+    "date_time": "2018-01-11 12:42:55",
+    "first_name": "Jerry",
+    "last_name": "Donovan",
+    "type": "SPEEDING",
+    "fine_amount": 992
+  },
+  {
+    "date_time": "2018-01-09 07:03:52",
+    "first_name": "Chasity",
+    "last_name": "Blankenship",
+    "type": "SPEEDING",
+    "fine_amount": 954
+  },
+  {
+    "date_time": "2018-01-10 02:37:39",
+    "first_name": "Melody",
+    "last_name": "Lara",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 1230
+  },
+  {
+    "date_time": "2018-01-08 08:35:04",
+    "first_name": "Vilma",
+    "last_name": "Cannon",
+    "type": "SPEEDING",
+    "fine_amount": 1588
+  },
+  {
+    "date_time": "2018-01-08 03:43:24",
+    "first_name": "Lea",
+    "last_name": "Ross",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 658
+  },
+  {
+    "date_time": "2018-01-04 07:03:57",
+    "first_name": "Montoya",
+    "last_name": "Olsen",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 1576
+  },
+  {
+    "date_time": "2018-01-07 12:26:06",
+    "first_name": "Alyce",
+    "last_name": "Romero",
+    "type": "SPEEDING",
+    "fine_amount": 1693
+  },
+  {
+    "date_time": "2018-01-01 03:11:27",
+    "first_name": "Hallie",
+    "last_name": "Vaughan",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 510
+  },
+  {
+    "date_time": "2018-01-10 04:40:29",
+    "first_name": "Hall",
+    "last_name": "Mcbride",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 1062
+  },
+  {
+    "date_time": "2018-01-01 06:26:16",
+    "first_name": "Brady",
+    "last_name": "Wood",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 1923
+  },
+  {
+    "date_time": "2018-01-10 05:39:19",
+    "first_name": "Barber",
+    "last_name": "Burt",
+    "type": "SPEEDING",
+    "fine_amount": 351
+  },
+  {
+    "date_time": "2018-01-11 12:57:46",
+    "first_name": "Stefanie",
+    "last_name": "Pate",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 198
+  },
+  {
+    "date_time": "2018-01-08 02:00:46",
+    "first_name": "Corina",
+    "last_name": "Grant",
+    "type": "SPEEDING",
+    "fine_amount": 1311
+  },
+  {
+    "date_time": "2018-01-06 12:54:15",
+    "first_name": "Hendrix",
+    "last_name": "Cline",
+    "type": "SPEEDING",
+    "fine_amount": 1715
+  },
+  {
+    "date_time": "2018-01-09 04:11:27",
+    "first_name": "Wright",
+    "last_name": "Ellis",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 1491
+  },
+  {
+    "date_time": "2018-01-06 07:32:27",
+    "first_name": "Helga",
+    "last_name": "Fulton",
+    "type": "SPEEDING",
+    "fine_amount": 749
+  },
+  {
+    "date_time": "2018-01-05 08:15:17",
+    "first_name": "Blankenship",
+    "last_name": "Garza",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 335
+  },
+  {
+    "date_time": "2018-01-08 05:57:09",
+    "first_name": "Albert",
+    "last_name": "Fox",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 359
+  },
+  {
+    "date_time": "2018-01-03 05:35:12",
+    "first_name": "Tamra",
+    "last_name": "Curtis",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 464
+  },
+  {
+    "date_time": "2018-01-07 12:58:03",
+    "first_name": "Kirk",
+    "last_name": "Kinney",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 546
+  },
+  {
+    "date_time": "2018-01-04 05:20:45",
+    "first_name": "Ila",
+    "last_name": "Rose",
+    "type": "SPEEDING",
+    "fine_amount": 1590
+  },
+  {
+    "date_time": "2018-01-09 01:28:03",
+    "first_name": "Chaney",
+    "last_name": "Terry",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 818
+  },
+  {
+    "date_time": "2018-01-04 01:19:15",
+    "first_name": "Blanche",
+    "last_name": "Lindsey",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 447
+  },
+  {
+    "date_time": "2018-01-06 02:01:07",
+    "first_name": "Maryann",
+    "last_name": "Bauer",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 887
+  },
+  {
+    "date_time": "2018-01-08 06:26:48",
+    "first_name": "Mary",
+    "last_name": "Olson",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 1209
+  },
+  {
+    "date_time": "2018-01-08 01:20:31",
+    "first_name": "Bertie",
+    "last_name": "Wright",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 1995
+  },
+  {
+    "date_time": "2018-01-01 04:00:17",
+    "first_name": "Randolph",
+    "last_name": "Horne",
+    "type": "SPEEDING",
+    "fine_amount": 686
+  },
+  {
+    "date_time": "2018-01-02 07:21:58",
+    "first_name": "Golden",
+    "last_name": "Mcclure",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 134
+  },
+  {
+    "date_time": "2018-01-09 02:46:06",
+    "first_name": "Woodward",
+    "last_name": "Dejesus",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 1068
+  },
+  {
+    "date_time": "2018-01-11 07:58:09",
+    "first_name": "Minnie",
+    "last_name": "Vinson",
+    "type": "SPEEDING",
+    "fine_amount": 1810
+  },
+  {
+    "date_time": "2018-01-09 09:38:27",
+    "first_name": "Adela",
+    "last_name": "Hartman",
+    "type": "SPEEDING",
+    "fine_amount": 888
+  },
+  {
+    "date_time": "2018-01-01 02:30:41",
+    "first_name": "Mullen",
+    "last_name": "Knapp",
+    "type": "SPEEDING",
+    "fine_amount": 711
+  },
+  {
+    "date_time": "2018-01-06 11:29:11",
+    "first_name": "Leanna",
+    "last_name": "Hunt",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 1324
+  },
+  {
+    "date_time": "2018-01-03 11:45:12",
+    "first_name": "Randi",
+    "last_name": "Terrell",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 308
+  },
+  {
+    "date_time": "2018-01-04 05:28:12",
+    "first_name": "Estella",
+    "last_name": "Malone",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 980
+  },
+  {
+    "date_time": "2018-01-07 02:52:52",
+    "first_name": "Edith",
+    "last_name": "Bridges",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 1742
+  },
+  {
+    "date_time": "2018-01-01 02:13:39",
+    "first_name": "Tameka",
+    "last_name": "Chavez",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 1002
+  },
+  {
+    "date_time": "2018-01-02 06:50:56",
+    "first_name": "Boone",
+    "last_name": "Shaffer",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 1726
+  },
+  {
+    "date_time": "2018-01-07 10:13:30",
+    "first_name": "Joyce",
+    "last_name": "Hodges",
+    "type": "SPEEDING",
+    "fine_amount": 763
+  },
+  {
+    "date_time": "2018-01-05 03:44:14",
+    "first_name": "Green",
+    "last_name": "Berg",
+    "type": "SPEEDING",
+    "fine_amount": 1344
+  },
+  {
+    "date_time": "2018-01-11 08:43:54",
+    "first_name": "Gallegos",
+    "last_name": "Giles",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 197
+  },
+  {
+    "date_time": "2018-01-05 10:19:49",
+    "first_name": "Marina",
+    "last_name": "Sears",
+    "type": "SPEEDING",
+    "fine_amount": 389
+  },
+  {
+    "date_time": "2018-01-03 05:48:40",
+    "first_name": "Sophie",
+    "last_name": "Stone",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 1322
+  },
+  {
+    "date_time": "2018-01-05 01:59:12",
+    "first_name": "Ramos",
+    "last_name": "Cash",
+    "type": "SPEEDING",
+    "fine_amount": 1435
+  },
+  {
+    "date_time": "2018-01-10 08:55:03",
+    "first_name": "Cecilia",
+    "last_name": "Cruz",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 672
+  },
+  {
+    "date_time": "2018-01-06 04:11:54",
+    "first_name": "Angelia",
+    "last_name": "Goodwin",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 474
+  },
+  {
+    "date_time": "2018-01-04 12:17:59",
+    "first_name": "Kathie",
+    "last_name": "Hendrix",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 127
+  },
+  {
+    "date_time": "2018-01-03 04:38:14",
+    "first_name": "Eve",
+    "last_name": "Gamble",
+    "type": "SPEEDING",
+    "fine_amount": 1794
+  },
+  {
+    "date_time": "2018-01-08 06:21:08",
+    "first_name": "Carrie",
+    "last_name": "Walsh",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 1522
+  },
+  {
+    "date_time": "2018-01-10 10:07:59",
+    "first_name": "Robinson",
+    "last_name": "Higgins",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 1533
+  },
+  {
+    "date_time": "2018-01-02 10:08:34",
+    "first_name": "Lina",
+    "last_name": "Lynn",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 1897
+  },
+  {
+    "date_time": "2018-01-05 02:50:06",
+    "first_name": "Burke",
+    "last_name": "Armstrong",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 1457
+  },
+  {
+    "date_time": "2018-01-02 07:26:11",
+    "first_name": "Nguyen",
+    "last_name": "Rivas",
+    "type": "SPEEDING",
+    "fine_amount": 1202
+  },
+  {
+    "date_time": "2018-01-11 12:01:26",
+    "first_name": "Strickland",
+    "last_name": "Dotson",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 980
+  },
+  {
+    "date_time": "2018-01-05 09:35:03",
+    "first_name": "Frederick",
+    "last_name": "Leon",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 85
+  },
+  {
+    "date_time": "2018-01-04 07:44:53",
+    "first_name": "Frost",
+    "last_name": "Reese",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 1650
+  },
+  {
+    "date_time": "2018-01-02 10:37:40",
+    "first_name": "Clarissa",
+    "last_name": "Ingram",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 1370
+  },
+  {
+    "date_time": "2018-01-07 06:24:43",
+    "first_name": "Schwartz",
+    "last_name": "Kidd",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 985
+  },
+  {
+    "date_time": "2018-01-08 10:07:59",
+    "first_name": "Huber",
+    "last_name": "Underwood",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 1575
+  },
+  {
+    "date_time": "2018-01-08 09:00:53",
+    "first_name": "Stokes",
+    "last_name": "Oneal",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 273
+  },
+  {
+    "date_time": "2018-01-11 02:29:40",
+    "first_name": "Hinton",
+    "last_name": "Mayer",
+    "type": "SPEEDING",
+    "fine_amount": 1923
+  },
+  {
+    "date_time": "2018-01-11 10:24:53",
+    "first_name": "Bradley",
+    "last_name": "Morin",
+    "type": "SPEEDING",
+    "fine_amount": 1799
+  },
+  {
+    "date_time": "2018-01-08 01:36:12",
+    "first_name": "Mclean",
+    "last_name": "Vazquez",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 828
+  },
+  {
+    "date_time": "2018-01-01 03:32:19",
+    "first_name": "Holly",
+    "last_name": "Dillon",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 1385
+  },
+  {
+    "date_time": "2018-01-02 08:13:39",
+    "first_name": "Riggs",
+    "last_name": "Bruce",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 1352
+  },
+  {
+    "date_time": "2018-01-07 02:04:44",
+    "first_name": "Wallace",
+    "last_name": "Mccormick",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 15
+  },
+  {
+    "date_time": "2018-01-02 12:34:58",
+    "first_name": "Keller",
+    "last_name": "Sellers",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 501
+  },
+  {
+    "date_time": "2018-01-03 07:49:35",
+    "first_name": "Michele",
+    "last_name": "Robbins",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 657
+  },
+  {
+    "date_time": "2018-01-04 11:28:51",
+    "first_name": "Martin",
+    "last_name": "Macdonald",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 153
+  },
+  {
+    "date_time": "2018-01-11 02:28:02",
+    "first_name": "Catalina",
+    "last_name": "Wade",
+    "type": "SPEEDING",
+    "fine_amount": 944
+  },
+  {
+    "date_time": "2018-01-02 06:06:11",
+    "first_name": "Julia",
+    "last_name": "Wynn",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 379
+  },
+  {
+    "date_time": "2018-01-11 09:03:35",
+    "first_name": "Marisa",
+    "last_name": "Pierce",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 490
+  },
+  {
+    "date_time": "2018-01-07 02:19:13",
+    "first_name": "Penny",
+    "last_name": "Sweeney",
+    "type": "SPEEDING",
+    "fine_amount": 1507
+  },
+  {
+    "date_time": "2018-01-07 09:46:17",
+    "first_name": "Rosa",
+    "last_name": "Lucas",
+    "type": "SPEEDING",
+    "fine_amount": 804
+  },
+  {
+    "date_time": "2018-01-09 09:27:50",
+    "first_name": "Sharpe",
+    "last_name": "Cote",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 1199
+  },
+  {
+    "date_time": "2018-01-10 01:00:33",
+    "first_name": "Elvia",
+    "last_name": "Charles",
+    "type": "SPEEDING",
+    "fine_amount": 307
+  },
+  {
+    "date_time": "2018-01-02 08:37:09",
+    "first_name": "Leola",
+    "last_name": "Anthony",
+    "type": "SPEEDING",
+    "fine_amount": 356
+  },
+  {
+    "date_time": "2018-01-08 09:23:13",
+    "first_name": "Kaufman",
+    "last_name": "Sandoval",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 1730
+  },
+  {
+    "date_time": "2018-01-04 07:43:02",
+    "first_name": "Lilia",
+    "last_name": "Nixon",
+    "type": "SPEEDING",
+    "fine_amount": 1101
+  },
+  {
+    "date_time": "2018-01-01 11:36:01",
+    "first_name": "William",
+    "last_name": "Maynard",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 1120
+  },
+  {
+    "date_time": "2018-01-07 11:13:38",
+    "first_name": "Sheila",
+    "last_name": "Herman",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 1072
+  },
+  {
+    "date_time": "2018-01-03 06:54:52",
+    "first_name": "Moore",
+    "last_name": "Harding",
+    "type": "SPEEDING",
+    "fine_amount": 434
+  },
+  {
+    "date_time": "2018-01-09 01:56:50",
+    "first_name": "Marlene",
+    "last_name": "Yates",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 1362
+  },
+  {
+    "date_time": "2018-01-09 06:13:19",
+    "first_name": "Aguirre",
+    "last_name": "Berger",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 1764
+  },
+  {
+    "date_time": "2018-01-08 05:10:10",
+    "first_name": "Ginger",
+    "last_name": "Stark",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 604
+  },
+  {
+    "date_time": "2018-01-03 01:18:00",
+    "first_name": "Beulah",
+    "last_name": "Dudley",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 1204
+  },
+  {
+    "date_time": "2018-01-03 07:18:09",
+    "first_name": "Copeland",
+    "last_name": "Avila",
+    "type": "SPEEDING",
+    "fine_amount": 1996
+  },
+  {
+    "date_time": "2018-01-09 12:03:26",
+    "first_name": "Deann",
+    "last_name": "Graves",
+    "type": "SPEEDING",
+    "fine_amount": 777
+  },
+  {
+    "date_time": "2018-01-11 02:40:30",
+    "first_name": "Terry",
+    "last_name": "Roth",
+    "type": "SPEEDING",
+    "fine_amount": 1194
+  },
+  {
+    "date_time": "2018-01-02 05:06:36",
+    "first_name": "Schmidt",
+    "last_name": "West",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 479
+  },
+  {
+    "date_time": "2018-01-10 05:01:38",
+    "first_name": "Colleen",
+    "last_name": "Cohen",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 1491
+  },
+  {
+    "date_time": "2018-01-03 04:15:45",
+    "first_name": "Lily",
+    "last_name": "Crosby",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 1090
+  },
+  {
+    "date_time": "2018-01-10 09:58:12",
+    "first_name": "Tonya",
+    "last_name": "Humphrey",
+    "type": "SPEEDING",
+    "fine_amount": 783
+  },
+  {
+    "date_time": "2018-01-03 10:42:13",
+    "first_name": "Louisa",
+    "last_name": "Todd",
+    "type": "SPEEDING",
+    "fine_amount": 270
+  },
+  {
+    "date_time": "2018-01-03 05:21:48",
+    "first_name": "Nash",
+    "last_name": "Harmon",
+    "type": "SPEEDING",
+    "fine_amount": 1123
+  },
+  {
+    "date_time": "2018-01-01 04:18:36",
+    "first_name": "Griffith",
+    "last_name": "Henry",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 527
+  },
+  {
+    "date_time": "2018-01-02 03:00:52",
+    "first_name": "Stuart",
+    "last_name": "Barr",
+    "type": "SPEEDING",
+    "fine_amount": 697
+  },
+  {
+    "date_time": "2018-01-03 06:25:20",
+    "first_name": "Bernadine",
+    "last_name": "Browning",
+    "type": "SPEEDING",
+    "fine_amount": 1484
+  },
+  {
+    "date_time": "2018-01-02 08:00:05",
+    "first_name": "Beatriz",
+    "last_name": "Mcdowell",
+    "type": "SPEEDING",
+    "fine_amount": 1426
+  },
+  {
+    "date_time": "2018-01-01 05:08:43",
+    "first_name": "Ellen",
+    "last_name": "Nelson",
+    "type": "SPEEDING",
+    "fine_amount": 341
+  },
+  {
+    "date_time": "2018-01-01 11:25:49",
+    "first_name": "Hood",
+    "last_name": "Battle",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 1566
+  },
+  {
+    "date_time": "2018-01-01 06:51:58",
+    "first_name": "Velma",
+    "last_name": "Hudson",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 1301
+  },
+  {
+    "date_time": "2018-01-01 03:56:49",
+    "first_name": "Hurst",
+    "last_name": "Compton",
+    "type": "SPEEDING",
+    "fine_amount": 1215
+  },
+  {
+    "date_time": "2018-01-04 12:41:57",
+    "first_name": "Norton",
+    "last_name": "Kelly",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 1723
+  },
+  {
+    "date_time": "2018-01-03 04:35:46",
+    "first_name": "Manuela",
+    "last_name": "Woods",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 76
+  },
+  {
+    "date_time": "2018-01-09 08:42:39",
+    "first_name": "Williams",
+    "last_name": "Mathews",
+    "type": "SPEEDING",
+    "fine_amount": 1008
+  },
+  {
+    "date_time": "2018-01-07 05:19:49",
+    "first_name": "Roslyn",
+    "last_name": "Garcia",
+    "type": "SPEEDING",
+    "fine_amount": 149
+  },
+  {
+    "date_time": "2018-01-01 08:19:03",
+    "first_name": "Amanda",
+    "last_name": "Russo",
+    "type": "SPEEDING",
+    "fine_amount": 1915
+  },
+  {
+    "date_time": "2018-01-03 06:49:49",
+    "first_name": "Joseph",
+    "last_name": "Bonner",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 1253
+  },
+  {
+    "date_time": "2018-01-06 02:16:23",
+    "first_name": "Latoya",
+    "last_name": "May",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 448
+  },
+  {
+    "date_time": "2018-01-07 05:51:07",
+    "first_name": "Elva",
+    "last_name": "Erickson",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 856
+  },
+  {
+    "date_time": "2018-01-08 11:03:18",
+    "first_name": "Knight",
+    "last_name": "Gay",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 1703
+  },
+  {
+    "date_time": "2018-01-04 02:12:19",
+    "first_name": "Glover",
+    "last_name": "Bowman",
+    "type": "SPEEDING",
+    "fine_amount": 768
+  },
+  {
+    "date_time": "2018-01-10 03:08:29",
+    "first_name": "Iva",
+    "last_name": "Chaney",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 1345
+  },
+  {
+    "date_time": "2018-01-11 09:22:50",
+    "first_name": "Jenifer",
+    "last_name": "Williamson",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 1366
+  },
+  {
+    "date_time": "2018-01-10 06:08:26",
+    "first_name": "Kathrine",
+    "last_name": "Buck",
+    "type": "SPEEDING",
+    "fine_amount": 823
+  },
+  {
+    "date_time": "2018-01-02 07:37:12",
+    "first_name": "Christensen",
+    "last_name": "Barton",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 1190
+  },
+  {
+    "date_time": "2018-01-08 11:16:04",
+    "first_name": "Lana",
+    "last_name": "Clayton",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 41
+  },
+  {
+    "date_time": "2018-01-11 01:55:39",
+    "first_name": "Alexandra",
+    "last_name": "Burch",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 205
+  },
+  {
+    "date_time": "2018-01-02 07:42:11",
+    "first_name": "Angeline",
+    "last_name": "Lopez",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 1067
+  },
+  {
+    "date_time": "2018-01-06 02:19:50",
+    "first_name": "Aguilar",
+    "last_name": "Talley",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 1919
+  },
+  {
+    "date_time": "2018-01-09 09:48:19",
+    "first_name": "Lupe",
+    "last_name": "Campos",
+    "type": "SPEEDING",
+    "fine_amount": 313
+  },
+  {
+    "date_time": "2018-01-08 12:09:38",
+    "first_name": "Stacy",
+    "last_name": "Hancock",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 1976
+  },
+  {
+    "date_time": "2018-01-11 09:34:27",
+    "first_name": "Fisher",
+    "last_name": "Hayes",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 1490
+  },
+  {
+    "date_time": "2018-01-08 08:00:47",
+    "first_name": "Maura",
+    "last_name": "Finch",
+    "type": "TALKING_ON_THE_PHONE",
+    "fine_amount": 372
+  },
+  {
+    "date_time": "2018-01-10 05:19:51",
+    "first_name": "Wiley",
+    "last_name": "Holland",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 1415
+  },
+  {
+    "date_time": "2018-01-01 12:56:41",
+    "first_name": "Weaver",
+    "last_name": "Houston",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 1862
+  },
+  {
+    "date_time": "2018-01-03 01:12:02",
+    "first_name": "Lawson",
+    "last_name": "Webb",
+    "type": "SPEEDING",
+    "fine_amount": 1058
+  },
+  {
+    "date_time": "2018-01-08 04:19:32",
+    "first_name": "Marta",
+    "last_name": "Franks",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 269
+  },
+  {
+    "date_time": "2018-01-10 06:31:45",
+    "first_name": "Nieves",
+    "last_name": "Merritt",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 161
+  },
+  {
+    "date_time": "2018-01-04 10:38:02",
+    "first_name": "Moss",
+    "last_name": "Aguilar",
+    "type": "PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES",
+    "fine_amount": 213
+  },
+  {
+    "date_time": "2018-01-03 10:29:54",
+    "first_name": "Ora",
+    "last_name": "Rowland",
+    "type": "TURNING_INTO_THE_WRONG_LANE",
+    "fine_amount": 167
+  },
+  {
+    "date_time": "2018-01-03 02:37:51",
+    "first_name": "Wise",
+    "last_name": "Reid",
+    "type": "SPEEDING",
+    "fine_amount": 1002
+  },
+  {
+    "date_time": "2018-01-09 11:54:16",
+    "first_name": "Karla",
+    "last_name": "Monroe",
+    "type": "SPEEDING",
+    "fine_amount": 443
+  }
+]

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<fineStatisticsList>
+    <fineStatistics>
+        <type>TURNING_INTO_THE_WRONG_LANE</type>
+        <fineAmount>20057981</fineAmount>
+    </fineStatistics>
+    <fineStatistics>
+        <type>SPEEDING</type>
+        <fineAmount>19984950</fineAmount>
+    </fineStatistics>
+    <fineStatistics>
+        <type>PARKING_IN_PLACES_FOR_PEOPLE_WITH_DISABILITIES</type>
+        <fineAmount>19651844</fineAmount>
+    </fineStatistics>
+    <fineStatistics>
+        <type>TALKING_ON_THE_PHONE</type>
+        <fineAmount>19573282</fineAmount>
+    </fineStatistics>
+</fineStatisticsList>
